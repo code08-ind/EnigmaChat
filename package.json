@@ -1,0 +1,18 @@
+{
+  "name": "mysecond",
+  "version": "1.0.0",
+  "description": "A EnigmaChat is a real time chat app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aryan Garg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "socket.io": "^2.3.0"
+  }
+}
